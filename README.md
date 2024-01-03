@@ -1,6 +1,6 @@
 # Nerfies
 
-This is the repository that contains source code for the [PERM website](https://nerfies.github.io).
+This is the repository that contains source code for the [PERM website](https://sidney-tio.github.io/perm-website/).
 
 If you find PERM useful for your work please cite:
 ```
