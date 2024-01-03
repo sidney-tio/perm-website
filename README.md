@@ -7,7 +7,7 @@ If you find PERM useful for your work please cite:
 @article{tio2023transferable,
       title={Transferable Curricula through Difficulty Conditioned Generators},
       author={Tio, Sidney and Varakantham, Pradeep},
-      journal={IJCAI'2023},
+      journal={IJCAI},
       year={2023}
     }
 ```
